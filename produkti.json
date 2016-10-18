@@ -1,0 +1,89 @@
+{
+"products": [
+    {
+	"name": "classic",
+	"shape": "triangle",
+	"description": "winter 
+	"price": "100"
+	"tags": [
+	    "triangle",
+	    "classic",
+	    "White wheat bread",
+	    "bacon",
+	    "salad cream",
+	    "cheese",
+	    "sour pickle"
+	]
+    },
+    {
+	"name": "tuna",
+	"shape": "triangle",
+	"description": "White wheat bread with seeds 56%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    },
+    {
+	"name": "ham",
+	"shape": "triangle",
+	"description": "White wheat bread with seeds 52%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    },
+    {
+	"name": "beacon",
+	"shape": "triangle",
+	"description": "White wheat bread with seeds 52%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    },
+    {
+	"name": "sausage",
+	"shape": "triangle",
+	"description": "White wheat bread with seeds 52%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    },
+    {
+	"name": "chicken",
+	"shape": "triangle",
+	"description": "White wheat bread with seeds 52%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    },
+    {
+	"name": "winter salami",
+	"shape": "triangle",
+	"description": "White wheat bread with seeds 52%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    },
+    {
+	"name": "turkey",
+	"shape": "triangle",
+	"description": "White wheat bread with seeds 52%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    },
+    {
+	"name": "3xcheese",
+	"shape": "triangle",
+	"description": "White wheat bread with seeds 52%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    },
+    {
+	"name": "classic",
+	"shape": "cube",
+	"description": "White wheat bread with seeds 52%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    },
+    {
+	"name": "ham",
+	"shape": "cube",
+	"description": "White wheat bread with seeds 52%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    },
+    {
+	"name": "cheese",
+	"shape": "cube",
+	"description": "White wheat bread with seeds 52%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    },
+    {
+	"name": "classic",
+	"shape": "elipse",
+	"description": "White wheat bread with seeds 52%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    },
+    {
+	"name": "fried chicken",
+	"shape": "elipse",
+	"description": "White wheat bread with seeds 52%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    },
+    {
+	"name": "ham",
+	"shape": "elipse",
+	"description": "White wheat bread with seeds 52%, tuna 18%, salad cream 18%, bulbs 4%, sour pickle 4%"
+    }
+  ]
+}
